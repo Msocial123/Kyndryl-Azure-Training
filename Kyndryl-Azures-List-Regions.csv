@@ -1,0 +1,41 @@
+S.No,id,displayName,userPrincipalName,Passowrd,Login Portal ,Users ,Regions ,Machine Configurations
+1,a1f884c4-03c4-4743-85ed-744c51e2cbd4,User-1,user1@annapurnaclahantechnologies.onmicrosoft.com,Mur@li2026,https://portal.azure.com/,Haroon Rashid,East US,Standard_D2ds_v4
+2,022d1dd3-9d2d-48ca-893f-e03cabcb5c46,User-2,user2@annapurnaclahantechnologies.onmicrosoft.com,Mur@li2026,https://portal.azure.com/,Basavanni Kumbar,West US 2,Standard_D2ds_v4
+3,2d6b1a39-aa16-4e8c-9f34-bd3f0215cd2a,User-3,user3@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Sudha Sagadevan,Australia East,Standard_D2ds_v4
+4,b2a806d8-a0d0-41ba-9834-9ce51dd2e0d4,User-4,user4@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Imran Mohammed Shaikh,Southeast Asia,Standard_D2ds_v4
+5,0ed59781-0e4f-4d4f-9a3f-cf4ab077bcf7,User-5,user5@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Karthika S,North Europe,Standard_D2ds_v4
+6,b4c486a2-f754-48ef-849a-4756d45dd950,User-6,user6@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Ashwini Nayak,Sweden Central,Standard_D2ds_v4
+7,62519f90-5140-4d3b-b3b6-434888721e39,User-7,user7@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Anushalakshmi Veerabommayan,West Europe,Standard_D2ds_v4
+8,6137f13a-a5c6-4a80-94b6-e8c0e495d8d7,User-8,user8@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Kamlesh Wamankar,South Africa North,Standard_D2ds_v4
+9,41564d86-bd0f-4337-b0d8-daf2cfb785e0,User-9,user9@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Swaroop Ganguli,Central US,Standard_D2ds_v4
+10,172ba72d-7b97-4ef5-b9e2-bf85073ff94d,User-10,user10@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Kiran Kasavajhala,Central India,Standard_D2ds_v4
+11,29a3e041-faca-451d-9cf1-ae962b7e3cc3,User-11,user11@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Amrita Sannigrahi,East Asia,Standard_D2ds_v4
+12,fe958a6f-6b82-4c72-8381-1995a881bcca,User-12,user12@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Rakshith G,Indonesia Central,Standard_D2ds_v4
+13,667608d3-63a9-4d62-87f8-ed8c2e6ca93e,User-13,user13@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Vishal Khanna,Japan East,Standard_D2ds_v4
+14,29dcf206-e7a2-4979-abf4-23dae1dba336,User-14,user14@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,K Varadharaj Yadav ,Japan West,Standard_D2ds_v4
+15,d7e9b722-a287-40d9-8443-9ed656142ae8,User-15,user15@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Subramanya B S,Korea Central,Standard_D2ds_v4
+16,3df30c62-cd38-4018-a3e5-a9b8823625a5,User-16,user16@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,VARSHINI M N,Malaysia West,Standard_D2ds_v4
+17,f9d5bf53-7ca1-46bd-8cfc-d8f5f21bcc2d,User-17,user17@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Padmanaban Vedachalam,New Zealand North,Standard_D2ds_v4
+18,9c2770ed-7b59-4d6d-bca7-f43aeba4a672,User-18,user18@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Chirragari Mahendranath,Canada Central,Standard_D2ds_v4
+19,c070eb24-9f70-4917-bf79-228646d8cd98,User-19,user19@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Chethan Bangalore Eswarappa,Germany West Central,Standard_D2ds_v4
+20,0c718123-1b5a-478b-9cc4-f27c8395ee08,User-20,user20@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,chandan,Austria East,Standard_D2ds_v4
+21,1817b5bd-baf0-481f-8775-18c95455a2d9,User-21,user21@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Prosenjit Saha,Belgium Central,Standard_D2ds_v4
+22,f1bcd64f-13a6-44ef-b363-be761d07dc69,User-22,user22@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Mohammad Islam Khan,France Central,Standard_D2ds_v4
+23,f3dec3aa-145d-44c6-a0aa-5158ba57c2e6,User-23,user23@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Navya Majji,Italy North,Standard_D2ds_v4
+24,cf27217e-42d2-4fe9-9750-c0a93fa915ad,User-24,user24@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Kavin Nallasivam,Norway East,Standard_D2ds_v4
+25,ef16cf58-ea27-45ad-9fac-c42cf85c13e3,User-25,user25@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Rekha M G,Poland Central,Standard_D2ds_v4
+26,460e40ca-dc7d-41a2-ad1a-0169d8226d49,User-26,user26@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Navanath,Switzerland North,Standard_D2ds_v4
+27,1378e59a-1aa5-4a88-89f8-b87b5678d77e,User-27,user27@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Amritha Vazha Valappil,UAE North,Standard_D2ds_v4
+28,4588c402-9508-43a9-ac27-c38354559c6a,User-28,user28@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Sindhu R N,Central US,Standard_D2ds_v4
+29,2468c315-eac4-41e3-a365-c4cfea92c9b3,User-29,user29@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Anand Sahu,Chile Central,Standard_D2ds_v4
+30,6248850a-4ec6-4894-803f-675ce2a920ba,User-30,user30@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Sukhjit Singh,Israel Central,Standard_D2ds_v4
+31,15bdef27-513d-47ef-a3ad-ff1f822312a5,User-31,user31@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Vijay Waghade,East US 2,Standard_D2ds_v4
+32,94a36903-7179-4465-bcb8-bf42ba6466b1,User-32,user32@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Vittha; Ramrao Bhosale,South Central US,Standard_D2ds_v4
+33,3ef63147-a832-483f-925b-b05eda8c8afe,User-33,user33@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Rajkumar Hugar,Canada East,Standard_D2ds_v4
+34,2c6c010f-461c-44d0-904e-07d0173db96d,User-34,user34@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Sobhanadri Avsrk,centralindia,Standard_D2ds_v4
+35,308155d9-3bb9-437e-9a7c-e62c1252f117,User-35,user35@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,sudipti patnaha,South India,Standard_D2ds_v4
+36,e5438b93-e4f5-46a8-9975-9a3fbca8faf1,User-36,user36@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Mainak  Das,UK West,Standard_D2ds_v4
+37,7a8bb7c2-7e58-4c0a-afe8-437d5ea085c5,User-37,user37@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,Gourov Roy Choudhury,North Central US,Standard_D2ds_v4
+38,9d6d99cb-1de0-4bad-8769-26cf5835777b,User-38,user38@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,,,
+39,f7e4a393-4fb1-4ec4-9ceb-1f3998ce9da8,User-39,user39@annapurnaclahantechnologies.onmicrosoft.com,Clahan@2026,https://portal.azure.com/,,,
+40,2f2cf225-59a0-4e21-b45f-4082e847b64e,User-40,user40@annapurnaclahantechnologies.onmicrosoft.com,Mur@li2026,https://portal.azure.com/,,,
